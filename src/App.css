@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@1,6..96,600&family=Dosis:wght@300&family=Martel+Sans:wght@600;900&family=Montserrat:wght@400;600&family=Playfair+Display&display=swap');
+:root {
+    --primary-color: rgb(255,255,255);
+    --background-color: #333; 
+    --highlight-color: rgb(244,245,246);
+    --font-mont: 'Montserrat',Verdana,Helvetica,Arial,sans-serif;
+    --font-play:'Playfair Display',Georgia,Times New Roman,serif;
+    --font-bond:'Bodoni Moda', serif;
+    --font-dosis:'Dosis', sans-serif;
+    --font-martel:'Martel Sans', sans-serif;
+}
+
