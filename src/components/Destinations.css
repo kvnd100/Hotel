@@ -1,0 +1,75 @@
+.destination-header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    font-family: var(--font-bond);
+    font-size: 70px;
+    color: #77328b;
+    letter-spacing: -1px;
+    margin-top: 6rem;
+}
+.destination{
+    max-width: 1200px;
+    margin: 0 auto;
+    margin-bottom: 10rem;
+}
+.destination-img{
+    vertical-align: middle;
+}
+.destination-content{
+    margin-top:6rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.destination-main{
+    position: relative;
+}
+
+.destination-island{
+    position:absolute;
+    top:1rem;
+    left:-20%;
+}
+
+.destination-card{
+    background: #fff;
+    padding: 60px 40px;
+    font-size: 17px;
+    width: 250px;
+    position: absolute;
+    bottom:0;
+    right:-30%;
+    box-shadow: 1px 5px 20px #9a9a9a;
+}
+
+.destination-card-header{
+    font-family: var(--font-bond);
+    color: #77328b;
+    font-size: 30px;
+}
+
+.destination-card-text{
+    margin: 0 0 10px;
+    font-size: 20px;
+    color: #1b1b1b;
+    font-family: var(--font-dosis);
+    line-height: 1.428571429;
+    margin-top:3rem;
+}
+
+.destination-card>button{
+    padding: 13px 30px 11px 30px;
+    font-family: var(--font-bond);
+    font-size: 20px;
+    border-radius: 0;
+    border: 0;
+    position: relative;
+    overflow: hidden;
+    background-color: #252776;
+    color: #ffffff;
+    margin-top:.5rem;
+}
